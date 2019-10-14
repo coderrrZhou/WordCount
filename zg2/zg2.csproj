@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cal_words.cs" />
+    <Compile Include="CommandLineArgument.cs" />
+    <Compile Include="CommandLineArgumentParser.cs" />
+    <Compile Include="Main.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
